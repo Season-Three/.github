@@ -1,8 +1,19 @@
-# SEASON THREE
+<div align="center">
+  
+<img src="season_three_logo.png" width="35%">
 
-A Minecraft development team focused on immersive multiplayer experiences.
+<h3>SEASON THREE</h3>
 
-Build Beyond Vanilla.
+*Minecraft Development Team*
+
+Building immersive multiplayer experiences  
+beyond the limits of vanilla Minecraft.
+
+<br>
+
+> Build Beyond Vanilla.
+
+</div>
 
 <!--
 
