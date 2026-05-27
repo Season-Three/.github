@@ -11,7 +11,7 @@ beyond the limits of vanilla Minecraft.
 
 <br>
 
-> Build Beyond Vanilla.
+**Build Beyond Vanilla.**
 
 </div>
 
