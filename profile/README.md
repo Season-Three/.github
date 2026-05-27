@@ -1,4 +1,8 @@
-## Hi there 👋
+# SEASON THREE
+
+A Minecraft development team focused on immersive multiplayer experiences.
+
+Build Beyond Vanilla.
 
 <!--
 
