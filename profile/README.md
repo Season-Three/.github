@@ -2,16 +2,14 @@
   
 <img src="season_three_logo.png" width="35%">
 
+<br>
+
 <h3>SEASON THREE</h3>
-
-*Minecraft Development Team*
-
-Building immersive multiplayer experiences  
-beyond the limits of vanilla Minecraft.
 
 <br>
 
-**Build Beyond Vanilla.**
+Building immersive multiplayer experiences  
+beyond the limits of vanilla Minecraft.
 
 </div>
 
