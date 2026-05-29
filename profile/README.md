@@ -11,6 +11,12 @@
 Building immersive multiplayer experiences  
 beyond the limits of vanilla Minecraft.
 
+<br>
+
+<img src="https://img.shields.io/badge/Minecraft-Paper-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-Multiplayer-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge">
+
 </div>
 
 <!--
